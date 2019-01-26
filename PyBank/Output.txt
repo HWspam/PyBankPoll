@@ -1,0 +1,13 @@
+***Financial Analysis***
+-------------------------
+Total months: 86
+Total: $38382578
+Average Change: -2315.1176470588234
+Greatest Increase in Profits: Date    Feb-2012 $1926159
+Name: 25, dtype: object
+Greatest Loss in Profits: Date    Sep-2013 $-2196167
+Name: 44, dtype: object
+
+
+
+How can I use iloc or a df indexing and not return the Name and dtype???????
